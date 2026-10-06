@@ -1,0 +1,1 @@
+Select 45 as Answer;
